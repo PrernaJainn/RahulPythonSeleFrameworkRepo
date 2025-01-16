@@ -1,0 +1,2 @@
+<selenium.webdriver.chrome.webdriver.WebDriver (session="e0624a8270419ac8f846ac9dccf24234")>  Invoke the Chrome Browser
+<pageObjects.ConfirmPage.ConfirmPage object at 0x000001B68AD42B40>  Confirm page shows: 
